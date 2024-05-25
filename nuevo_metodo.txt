@@ -1,0 +1,19 @@
+Código de un método de ejemplo para agregar en Libreria:
+
+class Libreria:
+    def __init__(self):
+        self.libros = []
+
+    # Métodos existentes aquí...
+
+    def contar_libros(self):
+        return len(self.libros)
+
+Su prueba unitaria:
+
+def test_contar_libros(self):
+    # Verificar que el método contar_libros devuelve el número correcto de libros
+    self.assertEqual(self.libreria.contar_libros(), 1)
+
+if __name__ == '__main__':
+    unittest.main()
