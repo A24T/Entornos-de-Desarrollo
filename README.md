@@ -40,4 +40,4 @@ Se utilizaron técnicas de debugging durante el desarrollo de la biblioteca para
 ### Contribución
 Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en abrir un issue en este repositorio o enviar un pull request con tus cambios.
 
-***¡Espero que esta biblioteca sea útil para ti!***   :tw-1f600:
+***¡Espero que esta biblioteca sea útil para ti!***
