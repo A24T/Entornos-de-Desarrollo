@@ -28,15 +28,16 @@ for libro in libros_de_garcia_marquez:
     print(libro)
 ```
 
-###Pruebas Unitarias
+### Pruebas Unitarias
 Las pruebas unitarias en el archivo *"test.py"* cubren una amplia gama de casos para garantizar el correcto funcionamiento de los métodos en las clases "Libreria". Esto incluye **casos típicos para escenarios comunes, casos extremos para situaciones inusuales y errores de entrada para manejar situaciones inesperadas.**
 
-###Nuevo método agregado
+### Nuevo método agregado
 Se agregó un nuevo método a la clase "Libreria" para mejorar su funcionalidad. Puedes encontrar detalles sobre este nuevo método en el archivo de texto *"nuevo_metodo.txt"*, junto con su prueba unitaria correspondiente.
 
-###Depuración (Debugging)
+### Depuración (Debugging)
 Se utilizaron técnicas de debugging durante el desarrollo de la biblioteca para identificar y corregir errores. Esto garantiza que la biblioteca funcione correctamente y sea confiable para su uso.
-###Contribución
+
+### Contribución
 Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en abrir un issue en este repositorio o enviar un pull request con tus cambios.
 
 ***¡Espero que esta biblioteca sea útil para ti!***   :tw-1f600:
