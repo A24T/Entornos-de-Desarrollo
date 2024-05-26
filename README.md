@@ -11,7 +11,7 @@ Este repositorio contiene una implementación simple de una biblioteca en Python
 ### Uso de la biblioteca
 Puedes utilizar la clase *Libreria* en tu propio proyecto Python para gestionar una colección de libros. Aquí hay un ejemplo básico de cómo puedes utilizarla:
 
-#####Python
+##### Python
 
 ```python
 from libreria import Libreria
